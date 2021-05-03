@@ -8,4 +8,4 @@ async def on_ready():
 @client.command()
 async def hello(ctx):
     await ctx.send("hi")
-client.run("ODE5MjQxMzIxODA1NjQzNzg4.YEjv7w.tDYlxUrf9AMVkkzHn4JiyCnECCg")
+client.run("token")
